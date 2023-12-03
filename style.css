@@ -1,0 +1,21 @@
+.bn{
+    background: url("Images/ban.png") no-repeat;
+    height: 500px;
+    background-position:center;
+
+}
+.bn h1{
+    opacity: 0.6;
+}
+.tm{
+    background: url("Images/wbg.png") no-repeat;
+    height: 350px;
+    width: 100%;
+
+}
+.e{
+    font-size: 20px;
+}
+.tm img{
+    border-radius: 20px;
+}
